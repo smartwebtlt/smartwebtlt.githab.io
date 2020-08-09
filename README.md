@@ -1,2 +1,2 @@
-# smartwebtlt.githab.io
+# smartwebtlt.github.io
 First training repository
