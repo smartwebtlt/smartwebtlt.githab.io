@@ -1,5 +1,5 @@
 # smartwebtlt.github.io
 First training repository
-{smartwebtlt.github.io}(test link)
+[test link](smartwebtlt.github.io)
 Simple text for training commit
 another text for
